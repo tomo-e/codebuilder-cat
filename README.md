@@ -1,6 +1,7 @@
 # Codebuilder Cat
 
-These are illustrations of character which is used at [JS Girls](http://jsgirls.org/).
+## Preview
+[![](assets/preview.png)]
 
 ## Format
 + Transparent PNG
