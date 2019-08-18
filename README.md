@@ -1,7 +1,7 @@
 # Codebuilder Cat
 
 ## Preview
-[![](assets/preview.png)]
+![](assets/preview.png)
 
 ## Format
 + Transparent PNG
